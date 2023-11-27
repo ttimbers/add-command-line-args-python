@@ -22,14 +22,14 @@ python src/count_classes.py
 ## Exercise
 
 Your task is to use the Python package 
-[`click`](https://click.palletsprojects.com/en/5.x/)
+[`click`](https://click.palletsprojects.com/en/8.1.x/)
 to add command line arguments so that other data files 
 can be passed to it, 
 and so that the results can be written to other directories.
 
 To help get you started, 
 take a look at the `click` docs for arguments:
-<https://click.palletsprojects.com/en/5.x/arguments/#basic-arguments>.
+<https://click.palletsprojects.com/en/8.1.x/arguments/#basic-arguments>.
 
 
 Below, we also provide you an example of a python script 
@@ -75,7 +75,7 @@ positional command line arguements (as in the example above),
 try to improve it further by naming the arguments 
 (we call this adding command line "options").
 The `click` docs for this are here: 
-<https://click.palletsprojects.com/en/5.x/options/#basic-value-options>
+<https://click.palletsprojects.com/en/8.1.x/options/#basic-value-options>
 
 # License
 Add command line arguments (Python) exercise contained herein are licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
